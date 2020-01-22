@@ -1,8 +1,0 @@
-<?php
-
-include "body.php";
-
-
-?>
-		
-		
